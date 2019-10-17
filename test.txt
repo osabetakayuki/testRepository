@@ -1,1 +1,14 @@
-test
+
+●gitという隠しファイルが生成される（最初の一回だけ）
+git init
+
+
+●状態を見る
+
+git status
+
+●ステージを上げる
+git add test.txt
+
+
+git add .  全部
