@@ -11,4 +11,7 @@ git status
 git add test.txt
 
 
-git add .  全部
+git add .  
+
+
+●ステージを上げる
