@@ -1,4 +1,5 @@
 
+
 ●gitという隠しファイルが生成される（最初の一回だけ）
 git init
 
@@ -14,4 +15,11 @@ git add test.txt
 git add .  
 
 
-●ステージを上げる
+●コミット（コメントを残す　コメントがないとviモードみたいのが立ち上がる）
+git commit -m 'コメント'
+
+
+
+●プッシュ
+git remote add origin https://github.com/osabetakayuki/testRepository.git
+git push -u origin master
