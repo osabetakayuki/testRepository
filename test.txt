@@ -1,25 +1,25 @@
+ã“ã‚“ã«ã¡ã¯
 
-
-œgit‚Æ‚¢‚¤‰B‚µƒtƒ@ƒCƒ‹‚ª¶¬‚³‚ê‚éiÅ‰‚Ìˆê‰ñ‚¾‚¯j
+ï¿½ï¿½gitï¿½Æ‚ï¿½ï¿½ï¿½ï¿½Bï¿½ï¿½ï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½iï¿½Åï¿½ï¿½Ìˆï¿½ï¿½ñ‚¾‚ï¿½ï¿½j
 git init
 
 
-œó‘Ô‚ðŒ©‚é
+ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚ï¿½ï¿½ï¿½ï¿½ï¿½
 
 git status
 
-œƒXƒe[ƒW‚ðã‚°‚é
+ï¿½ï¿½ï¿½Xï¿½eï¿½[ï¿½Wï¿½ï¿½ï¿½ã‚°ï¿½ï¿½
 git add test.txt
 
 
-git add .  
+git add .
 
 
-œƒRƒ~ƒbƒgiƒRƒƒ“ƒg‚ðŽc‚·@ƒRƒƒ“ƒg‚ª‚È‚¢‚Æviƒ‚[ƒh‚Ý‚½‚¢‚Ì‚ª—§‚¿ã‚ª‚éj
-git commit -m 'ƒRƒƒ“ƒg'
+ï¿½ï¿½ï¿½Rï¿½~ï¿½bï¿½gï¿½iï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½cï¿½ï¿½ï¿½@ï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½gï¿½ï¿½ï¿½È‚ï¿½ï¿½ï¿½viï¿½ï¿½ï¿½[ï¿½hï¿½Ý‚ï¿½ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ã‚ªï¿½ï¿½ï¿½j
+git commit -m 'ï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½g'
 
 
 
-œƒvƒbƒVƒ…
+ï¿½ï¿½ï¿½vï¿½bï¿½Vï¿½ï¿½
 git remote add origin https://github.com/osabetakayuki/testRepository.git
 git push -u origin master
